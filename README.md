@@ -1,5 +1,5 @@
-# The Blog
+## The Blog
 
-## [Kotlin](https://sylvesterchen.github.io/kotlin)
+### [Kotlin](https://sylvesterchen.github.io/kotlin)
 
-## [The Philosophy of Programming](https://sylvesterchen.github.io/programming-philosophy)
+### [The Philosophy of Programming](https://sylvesterchen.github.io/programming-philosophy)
