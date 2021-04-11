@@ -1,9 +1,14 @@
-## Main Summary
+## Elements of Programming
 
-### [Kotlin](https://sylvesterchen.github.io/kotlin)
+### Kotlin
 
 - [Kotlin in 30 Seconds](https://sylvesterchen.github.io/kotlin/kotlin_in_30_seconds)
+- [Head First Kotlin](https://sylvesterchen.github.io/kotlin/head_first_kotlin_summary)
 
-### [Java](https://sylvesterchen.github.io/java)
+### The Philosophy of Programming
 
-### [The Philosophy of Programming](https://sylvesterchen.github.io/programming-philosophy)
+- [Build maintainable software](https://sylvesterchen.github.io/programming-philosophy/build_maintainable_software)
+
+### Working project
+
+- [A client of Wanandroid](https://github.com/SylvesterCHEN/Wanandroid)
